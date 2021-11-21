@@ -1,0 +1,6 @@
+- 👋 Olá, eu sou Tio Mu
+- 👀 Tenho interesse em GNU/Linux, Games, linguagem de programação PHP, Gambas, Python e ShellScript
+- 🌱 Estou sempre me atualizando com as novidades de informática, principalmente em GNU/Linux, games e programação
+- 💞️ Estou desenvolvendo vários projetos para GNU/Linux e ministrando aulas de informática no YouTube e Zoom
+- 📫 E-mail para contato comercial: contatotiomuca@gmail.com
+- Site: https://linktr.ee/tiomu
